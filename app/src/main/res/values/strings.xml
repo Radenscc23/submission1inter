@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Story App </string>
+    <string name="main_dashboard">Halaman Utama </string>
+    <string name="user_name">Nama</string>
+    <string name="user_email">Email</string>
+    <string name="user_password">Sandi</string>
+    <string name="check_account_exists">Sudah mendaftar Akun?</string>
+    <string name="story_date_created">Dibuat Tanggal</string>
+    <string name="story_desc">Deskripsi</string>
+    <string name="language_setting">Ubah Bahasa</string>
+    <string name="email_validity">Format tidak sesuai</string>
+    <string name="password_validity">Password kurang dari 8 karakter</string>
+    <string name="register_done">Berhasil! User sudah ditambahkan</string>
+    <string name="register_not_sucess">Akun dengan Email ini sudah ada</string>
+    <string name="user_does_not_exists">Tidak berhasil ditemukan</string>
+    <string name="login_done">Login berhasil!</string>
+    <string name="input_name">Masukan Nama</string>
+    <string name="input_email">Masukan Email</string>
+    <string name="input_password">Masukan Password</string>
+    <string name="story_desc_check">Wajib diisi</string>
+    <string name="story_image_check">Berkas gambar wajib diisi</string>
+    <string name="permission">Tidak mendapatkan izin.</string>
+    <string name="choose_picture">Pilih</string>
+    <string name="picture_not_successful">Gagal</string>
+    <string name="camera_set_fail">Tidak dapat memuat kamera</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="save">Simpan</string>
+    <string name="user_register">Daftar Akun</string>
+    <string name="user_login">Masuk Akun</string>
+    <string name="user_logout">Keluar Akun</string>
+    <string name="post_new_story">Masukkan Cerita</string>
+    <string name="detail_of_story">Detail</string>
+    <string name="app_information">Informasi</string>
+    <string name="app_copyright">Dibuat di 2024</string>
+</resources>

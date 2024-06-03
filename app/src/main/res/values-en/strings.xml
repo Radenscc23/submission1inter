@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Story App </string>
+    <string name="main_dashboard">Main Dashboard </string>
+    <string name="user_name">Name</string>
+    <string name="user_email">Email</string>
+    <string name="user_password">Password</string>
+    <string name="check_account_exists">Don`t have an account yet?</string>
+    <string name="story_date_created">Created</string>
+    <string name="story_desc">Description</string>
+    <string name="language_setting">Change language</string>
+    <string name="email_validity">Format is not applicable</string>
+    <string name="password_validity">Password is less than 8 characters</string>
+    <string name="register_done">Success! User is created</string>
+    <string name="register_not_sucess">Account with this email exists!</string>
+    <string name="user_does_not_exists">User not found!</string>
+    <string name="login_done">Login successful!</string>
+    <string name="input_name">Input Name</string>
+    <string name="input_email">Input Email</string>
+    <string name="input_password">Input Password</string>
+    <string name="story_desc_check">Description is mandatory</string>
+    <string name="story_image_check">Enter image first</string>
+    <string name="permission">Not getting permission.</string>
+    <string name="choose_picture">Choose </string>
+    <string name="picture_not_successful">Failed</string>
+    <string name="camera_set_fail">Can`t set camera</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="save">Save</string>
+    <string name="user_register">Register</string>
+    <string name="user_login">Login</string>
+    <string name="user_logout">Logout</string>
+    <string name="post_new_story">Post Story</string>
+    <string name="detail_of_story">Story Detail</string>
+    <string name="app_information">Information</string>
+    <string name="app_copyright">Made in 2024</string>
+</resources>
